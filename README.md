@@ -1,5 +1,6 @@
 # Workshop-2
 This project is a version for tracker of things you have to do.
+Here is the text in Ukrainian :-)
 
 Завдання Goal tracker
 
@@ -26,3 +27,7 @@ This project is a version for tracker of things you have to do.
 Робота має бути розподілення на трьох людей - кожен працює із своєю частиною і заливає на гітхаб на свою гілку ! 
 Програма має працювати поки користувач не обере опцію “Вийти” ( при кожному разі, коли користувач заходить, щоб просто поставити “галочку” що він ще раз виконав якесь завдання на сьогодні) 
 Програма повинна зберігати наявні завдання у файл. Під час запуску програма повинна зчитати минулі завдання з файлу (якщо вони є), а під час вимкнення програма повинна зберегти поточні завдання у файл.
+
+[![Pylint](https://github.com/anstadnik/git_workshop/actions/workflows/pylint.yml/badge.svg)](https://github.com/anstadnik/git_workshop/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/anstadnik/git_workshop/actions/workflows/tests.yml/badge.svg)](https://github.com/anstadnik/git_workshop/actions/workflows/tests.yml)
+
